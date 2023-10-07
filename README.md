@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-I mean like. The Auth was very bad and the obf too jsyk. Managed to smoke under 1 min. If you see a Francium-Beta crack by now, It means that Franciums Auth didn't get any better in the next few updates since i betted with AquaNot/Ablue that if the Auth wont get better, then i will release a Cr4ck.
+I mean, the authentication was very bad, and the obfuscation too, just so you know. I managed to crack it in under 1 minute. If you see a Francium-Beta crack by now, it means that Francium's authentication didn't improve in the next few updates, since I bet with AquaNot/Ablue that if the authentication doesn't get better, then I will release a crack.
 
 # How To Use
 1. Download the Fabric installer from here, open it and choose Minecraft 1.19.4 & Fabric Loader 0.14.21
