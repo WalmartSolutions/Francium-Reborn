@@ -1,4 +1,4 @@
-<h1 align="center">Francium-Beta</h1>
+<h1 align="center">Francium-Reborn</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
