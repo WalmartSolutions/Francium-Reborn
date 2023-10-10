@@ -13,7 +13,9 @@ I mean, the authentication was very bad, and the obfuscation too, just so you kn
 # Credits
 yaimcool (Ablue, AquaNot), usomi - Developer of the Client.
 
-3000IQPlay - Cracking + Jar.
+3000IQPlay - Cracking.
+
+yaimcool (Ablue, AquaNot) - Jar.
 
 # GUI
 ![image](https://media.discordapp.net/attachments/1143170663658553434/1160126583621832804/image.png?ex=65338713&is=65211213&hm=f61ff6d4cc9c3680d8cddba2490462644b5590c076193170d0993e85f264895f&=&width=1101&height=619)
