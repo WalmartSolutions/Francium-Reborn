@@ -2,6 +2,10 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
+**Francium CF - https://discord.gg/dx9ware**
+
+**If ya join Francium Discord to only drop the link then please get real, yall aren't cool and nobody really cares especially the devs. The crack has only been made because of the security not being updated when I have told the developer what to do with the security**
+
 # Why?
 I mean, the authentication was very bad, and the obfuscation too, just so you know. I managed to smoke it in under 1 minute. If you see a Francium-Beta crack by now, it means that Francium's authentication didn't improve in the next few updates, since I bet with AquaNot/Ablue that if the authentication doesn't get better, then I will release a cr4ck.
 
